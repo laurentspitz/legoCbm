@@ -13,7 +13,9 @@
 
     <logger name="ch.qos.logback.core" level="OFF" />
     <logger name="ev3dev.hardware" level="DEBUG" />
+    <logger name="com.github.sarxos.webcam" level="ERROR" />
     <logger name="com.github.sarxos.webcam.ds.fswebcam" level="ERROR" />
+
 
     <root level="DEBUG">
         <appender-ref ref="STDOUT" />

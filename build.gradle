@@ -17,7 +17,7 @@ dependencies {
     compile("com.github.sarxos:webcam-capture:0.3.10")
     compile("com.github.sarxos:webcam-capture-driver-fswebcam:0.3.10")
     compile("org.zeroturnaround:zt-zip:1.13")
-
+    compile("com.amazonaws:aws-java-sdk-s3")
 }
 
 //Compile

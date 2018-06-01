@@ -16,4 +16,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'template_project_gradle'
+rootProject.name = 'legoCbm'
