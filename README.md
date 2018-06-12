@@ -51,3 +51,7 @@ You can use the Java IDE to launch the task or execute them from the terminal
 ## Other
 - If alternatively you have connected the pi to a screen monitor via HDMI press Ctrl+Alt+F6 at the end of the boot sequence.
 - Get ip on Raspberry Pi : ip -a
+
+
+
+trouver l'ip: arp -a
